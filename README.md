@@ -41,3 +41,6 @@ For Discussion and Improving this Code, Join - https://www.unofficed.com/chat/
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+ref_page: https://unofficed.com/how-to-download-historical-data-from-nse-using-python/
